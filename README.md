@@ -1,2 +1,2 @@
 # gsd
-pip
+pip install gsd
